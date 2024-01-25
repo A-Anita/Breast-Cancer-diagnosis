@@ -16,7 +16,7 @@ lime,
 pillow,
 opencv-python,
 pandas,
-numpy
-torch
-keras
+numpy,
+torch,
+keras,
 tensorflow
