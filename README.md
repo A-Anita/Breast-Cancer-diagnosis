@@ -10,12 +10,12 @@ Description: The "Breast Cancer Diagnosis" project is an deep learning applicati
 
 Requirement package 
 
-imgaug
-scikit-learn
-lime
-pillow
-opencv-python
-pandas
+imgaug,
+scikit-learn,
+lime,
+pillow,
+opencv-python,
+pandas,
 numpy
 torch
 keras
